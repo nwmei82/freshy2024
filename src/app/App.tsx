@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import ShakeComponent from './components/Shake';
+import ShakeComponent from '../components/Shake';
 
 const ShakeGame: FC = () => {
 
